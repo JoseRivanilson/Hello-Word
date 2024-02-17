@@ -1,2 +1,2 @@
 # HelloWord
- Meu primeiro repositório do curso de Guit e GuitHub
+Repositório criado durante uma aula ao vivo no youtube.
